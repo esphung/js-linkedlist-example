@@ -1,0 +1,19 @@
+{
+    "env": {
+        "node": true,
+        "browser": true,
+        "es6": true,
+        "jest": true
+    },
+    "extends": "airbnb-base",
+    "rules": {
+      "react/jsx-filename-extension": "off",
+      "import/no-extraneous-dependencies": "off",
+      "camelcase": "off",
+      "operator-assignment": "off",
+      "no-underscore-dangle": "off",
+      "import/no-unresolved": "off",
+      "no-param-reassign": "off",
+      "react/jsx-props-no-spreading": "off"
+    }
+}
