@@ -14,5 +14,5 @@ node main.js
 ```
 ##### Python Example
 ```shell
-python3 linkedlist.py
+python3 example_linkedlist.py
 ```
