@@ -1,7 +1,5 @@
-# Linked List (Javascript Example)
+# Linked Lists
 A linked list is a sequence of data structures, which are connected together via links  
-Example by eric phung  
-11/03/2020 09:44 AM
 
 ##### Basic Operations
     Insertion − Adds an element at the beginning of the list.
@@ -10,9 +8,11 @@ Example by eric phung
     Search − Searches an element using the given key.
     Delete − Deletes an element using the given key.
 
-##### Setup
+##### JavaScript Example
 ```shell
-git clone https://github.com/esphung/js-linkedlist-example.git
-cd js-linkedlist-example
 node main.js
+```
+##### Python Example
+```shell
+python3 linkedlist.py
 ```
